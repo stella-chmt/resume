@@ -40,7 +40,7 @@ _Dianping is the NO.1 O2O Chinese mobile internet company operating a local life
 
 EDUCATION
 --
-* Chinese Academy of Sciences  Master of Engineering – Signal and Information Processing    September 2009 - July 2012  
+* Chinese Academy of Sciences  Master of Engineering – Signal and Information Processing    September 2009 - July 2012    
       * Chen Mengting, Yan Dongmei, Wang Gang. Algorithm of high-resolution remote sensing image matching based on Harris corner and SIFT descriptor [J]. Journal of Images and Graphics,2012,17(11):1453-1459 
 * Wuhan University  Bachelor of Engineering – Remote Sensing Science and Technology    September 2005 - June 2019    
 
@@ -50,19 +50,19 @@ CERTIFICATION
 
 OTHER SKILLS & STRENGTHS
 --
-* Performance Testing  
+* Performance Testing      
       * Jmeter
-* API/APP Automation  
-      * Robotframework
-      * Appium
-* Scripting  
-      * Python
-      * Java
-* Continuous Integration  
-      * MySQL
-      * Java      
-* Servers
-      * Linux
+* API/APP Automation      
+      * Robotframework    
+      * Appium    
+* Scripting      
+      * Python    
+      * Java    
+* Continuous Integration      
+      * MySQL    
+      * Java          
+* Servers    
+      * Linux    
 
 PERSONAL INTEREST
 --
