@@ -16,14 +16,14 @@ SKILLS AND EXPERTISE
  
 WORK EXPERIENCE
 -- 
-* Pingan Health Cloud Co. Ltd, China  June 2016 - Now
+* Pingan Health Cloud Co. Ltd, China    June 2016 - Now    
 _This company is an important part of Pingan Group and its integrated internet services platform which focuses on healthcare._   
   * Responsible for the test of the e-commerce website’s search and recommendation system of Ping An Health.
   * Analyzed business requirements, performed functional, regression, performance and reliability testing to uncover defects and suggest improvements for the product.
   * Project Experience:  
     Planned and implemented all the testing work for the search optimization project which decreased the none-hit-rate of searching by 4%, and due to which being awarded the CTO-Q4 Prize.
 
-* Internet Plus Holdings LTD (former Dianping), China  July 2012 - April 2016  
+* Internet Plus Holdings LTD (former Dianping), China    July 2012 - April 2016    
 _Dianping is the NO.1 O2O Chinese mobile internet company operating a local life information and trading platform._
   * Led a six-member software QA team in the Search Department which consists of 45 developers, to develop and implement quality-assurance and quality-control methodologies to ensure compliance with QA standards and customer requirements.
   * Analyzed business requirements, performed functional, reliability, performance and compatibility testing and followed user feedbacks to improve user experience.
@@ -40,13 +40,13 @@ _Dianping is the NO.1 O2O Chinese mobile internet company operating a local life
 
 EDUCATION
 --
-* Chinese Academy of Sciences  Master of Engineering – Signal and Information Processing  September 2009 - July 2012  
+* Chinese Academy of Sciences  Master of Engineering – Signal and Information Processing    September 2009 - July 2012  
       * Chen Mengting, Yan Dongmei, Wang Gang. Algorithm of high-resolution remote sensing image matching based on Harris corner and SIFT descriptor [J]. Journal of Images and Graphics,2012,17(11):1453-1459 
-* Wuhan University  Bachelor of Engineering – Remote Sensing Science and Technology  September 2005 - June 2019    
+* Wuhan University  Bachelor of Engineering – Remote Sensing Science and Technology    September 2005 - June 2019    
 
 CERTIFICATION
 --
-* Certified Scrum Master (CSM)  August 2013  
+* Certified Scrum Master (CSM)    August 2013  
 
 OTHER SKILLS & STRENGTHS
 --
