@@ -43,7 +43,7 @@ EDUCATION
 * Chinese Academy of Sciences    *September 2009 - July 2012*  
   * Master of Engineering – Signal and Information Processing      
       * Chen Mengting, Yan Dongmei, Wang Gang. Algorithm of high-resolution remote sensing image matching based on Harris corner and SIFT descriptor [J]. Journal of Images and Graphics,2012,17(11):1453-1459     
-* Wuhan University    *September 2005 - June 2019*  
+* Wuhan University    *September 2005 - June 2009*  
   * Bachelor of Engineering – Remote Sensing Science and Technology         
 
 CERTIFICATION
