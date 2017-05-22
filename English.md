@@ -16,7 +16,7 @@ SKILLS AND EXPERTISE
  
 WORK EXPERIENCE
 -- 
-* Pingan Health Cloud Co. Ltd, China    June 2016 - Now    
+* Pingan Health Cloud Co. Ltd, China    June 2016 - May 2017    
 _This company is an important part of Pingan Group and its integrated internet services platform which focuses on healthcare._   
   * Responsible for the test of the e-commerce website’s search and recommendation system of Ping An Health.
   * Analyzed business requirements, performed functional, regression, performance and reliability testing to uncover defects and suggest improvements for the product.
