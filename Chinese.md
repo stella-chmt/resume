@@ -1,4 +1,4 @@
-简介
+陈梦婷 Email:stella.mengting.chen@gmail.com
 --
 * 7年互联网行业软件测试经验，能基于团队需要，进行API/UI的质量保障解决方案规划与实施（包括功能、性能、稳定性、兼容性等各方面的测试、自动化、持续集成）
 * 熟悉Python，RobotFramework，Appium，Mysql，Jmeter，Linux
