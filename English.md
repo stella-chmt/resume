@@ -1,6 +1,6 @@
 PERSONAL OBJECTIVE
 --
-I am an experienced software testing engineer and also an enthusiastic technologist with strong 5 years QA background in IT industry. With proven track record in professional application testing, I am a self-motivated, initiative and responsible individual who can work well as a part of a team and currently looking for a new challenging opportunity.
+I am an experienced software testing engineer and also an enthusiastic technologist with strong 7 years QA background in IT industry. With proven track record in professional application testing, I am a self-motivated, initiative and responsible individual who can work well as a part of a team and currently looking for a new challenging opportunity.
 
 SKILLS AND EXPERTISE
 --
