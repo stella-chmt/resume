@@ -16,6 +16,16 @@ SKILLS AND EXPERTISE
  
 WORK EXPERIENCE
 -- 
+* Kujiale, China    December 2018 - September 2019      
+  * Responsible for the test of the website Coohom.com.
+  * Analyzed business requirements, performed functional, regression, performance and reliability testing to uncover defects and suggest improvements for the product.
+
+* Meituan Dianping, China    May 2017 - September 2018    
+  * Led a fourteen-member software QA team in the Daodianzhonghe Department which consists of 114 developers, to develop and implement quality-assurance and quality-control methodologies to ensure compliance with QA standards and customer requirements.
+  * Analyzed business requirements, performed functional, reliability, performance and compatibility testing and followed user feedbacks to improve user experience.
+  * Trained junior testing engineers on different technologies and infrastructures used.
+  * Participated in hiring for the QA team of this department.
+  
 * Pingan Health Cloud Co. Ltd, China    June 2016 - May 2017    
 _This company is an important part of Pingan Group and its integrated internet services platform which focuses on healthcare._   
   * Responsible for the test of the e-commerce website’s search and recommendation system of Ping An Health.
