@@ -1,18 +1,12 @@
 PERSONAL OBJECTIVE
 --
-I am an experienced software testing engineer and also an enthusiastic technologist with strong 7 years QA background in IT industry. With proven track record in professional application testing, I am a self-motivated, initiative and responsible individual who can work well as a part of a team and currently looking for a new challenging opportunity.
+I am an experienced software testing engineer and Scrum Master, also an enthusiastic technologist in IT industry. With proven track record, I am a self-motivated, initiative and responsible individual who can work well as a part of a team and currently looking for a new challenging opportunity.
 
 SKILLS AND EXPERTISE
 --
-* SQA Methodologies
-* Test Plans, Cases & Processes
-* Smoking & Regression Testing
-* Functional, Performance, Reliability & Compatibility Testing
-* API/APP Test Automation
-* Defect/Bug Tracking
-* Test Strategies & Coverage
-* Scripting & Documentation
 * Project Management
+* QA Methodologies
+* Scripting & Documentation
  
 WORK EXPERIENCE
 -- 
@@ -22,13 +16,13 @@ WORK EXPERIENCE
   
 * Kujiale, China    December 2018 - September 2019      
   * Responsible for the test of the website Coohom.com.
-  * Analyzed business requirements, performed functional, regression, performance and reliability testing to uncover defects and suggest improvements for the product.
+  * Analyzed business requirements, performed functional, regression, performance and reliability testing to uncover defects and propose improvements for the product.
 
 * Meituan Dianping, China    May 2017 - September 2018    
   * Led a 14 members' software QA team in the Daodianzhonghe Department which consists of 114 developers, to develop and implement quality-assurance and quality-control methodologies and way of working to ensure compliance with QA standards and customer requirements.
   * Analyzed business requirements, performed functional, reliability, performance and compatibility testing and followed user feedbacks to improve user experience.
   * Trained junior testing engineers on different technologies and infrastructures used.
-  * Participated in hiring for the QA team of this department.
+  * Participated in hiring and promotion for the QA team of this department.
   
 * Pingan Health Cloud Co. Ltd, China    June 2016 - May 2017    
 _This company is an important part of Pingan Group and its integrated internet services platform which focuses on healthcare._   
@@ -37,8 +31,7 @@ _This company is an important part of Pingan Group and its integrated internet s
   * Project Experience:  
     Planned and implemented all the testing work for the search optimization project which decreased the none-hit-rate of searching by 4%, and due to which being awarded the CTO-Q4 Prize.
 
-* Internet Plus Holdings LTD (former Dianping), China    July 2012 - April 2016    
-_Dianping is the NO.1 O2O Chinese mobile internet company operating a local life information and trading platform._
+* Dazhong Dianping(Part of Meituan Now), China    July 2012 - April 2016    
   * Led a 6 members' software QA team in the Search Department which consists of 45 developers, to develop and implement quality-assurance and quality-control methodologies to ensure compliance with QA standards and customer requirements.
   * Analyzed business requirements, performed functional, reliability, performance and compatibility testing and followed user feedbacks to improve user experience.
   * Developed effective UI and API automation testing scripts and optimized product developing process to increase the whole department’s work efficiency.
@@ -47,10 +40,10 @@ _Dianping is the NO.1 O2O Chinese mobile internet company operating a local life
   * Trained junior testing engineers on different technologies and infrastructures used.
   * Participated in hiring for the QA team of this department.
   * Project Experience:
+      * Greatly increased the efficiency of the development and software releasing process of the Search Department by first adopting the continuous integration system together with the automation and performance regression plan, and due to which being awarded DP Quarter Star.  
       * First created and executed automated test solution for the user data submitting function of the mobile APPs in Dianping.  
       * Planned and implemented all the testing work alone for a new mobile APP called “Search Nearby” within two weeks under the condition of all the team members having no frontend software developing or testing background and there were no P1/P2 bugs reported after the APP was released.   
       * Planned and executed all the testing work for the new search platform which now serves for all the search systems (100+) of Dianping.
-      * Greatly increased the efficiency of the development and software releasing process of the Search Department by first adopting the continuous integration system together with the automation and performance regression plan, and due to which being awarded DP Quarter Star.  
 
 EDUCATION
 --
@@ -83,4 +76,4 @@ OTHER SKILLS & STRENGTHS
 
 PERSONAL INTEREST
 --
-I have a passion for trying out new and exciting things such as latte art and MTM. I also enjoy hiking and my next goal is to revisit Tibet.    
+I have a passion for trying out new things such as Feldenkrais Method. I also enjoy tourism.
