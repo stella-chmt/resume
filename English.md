@@ -16,12 +16,16 @@ SKILLS AND EXPERTISE
  
 WORK EXPERIENCE
 -- 
+* Ericsson, China    January 2020 - Present      
+  * Responsible for the project management of a 6 members' Scrum team as the team's Scrum Master and facilitated the team through all stages from forming to performing.
+  * Analyzed business requirements, performed test analysis and executed functional testing to uncover defects and propose improvements for features assigned to team.
+  
 * Kujiale, China    December 2018 - September 2019      
   * Responsible for the test of the website Coohom.com.
   * Analyzed business requirements, performed functional, regression, performance and reliability testing to uncover defects and suggest improvements for the product.
 
 * Meituan Dianping, China    May 2017 - September 2018    
-  * Led a fourteen-member software QA team in the Daodianzhonghe Department which consists of 114 developers, to develop and implement quality-assurance and quality-control methodologies to ensure compliance with QA standards and customer requirements.
+  * Led a 14 members' software QA team in the Daodianzhonghe Department which consists of 114 developers, to develop and implement quality-assurance and quality-control methodologies and way of working to ensure compliance with QA standards and customer requirements.
   * Analyzed business requirements, performed functional, reliability, performance and compatibility testing and followed user feedbacks to improve user experience.
   * Trained junior testing engineers on different technologies and infrastructures used.
   * Participated in hiring for the QA team of this department.
@@ -29,13 +33,13 @@ WORK EXPERIENCE
 * Pingan Health Cloud Co. Ltd, China    June 2016 - May 2017    
 _This company is an important part of Pingan Group and its integrated internet services platform which focuses on healthcare._   
   * Responsible for the test of the e-commerce website’s search and recommendation system of Ping An Health.
-  * Analyzed business requirements, performed functional, regression, performance and reliability testing to uncover defects and suggest improvements for the product.
+  * Analyzed business requirements, performed functional, regression, performance and reliability testing to uncover defects and propose improvements for the product.
   * Project Experience:  
     Planned and implemented all the testing work for the search optimization project which decreased the none-hit-rate of searching by 4%, and due to which being awarded the CTO-Q4 Prize.
 
 * Internet Plus Holdings LTD (former Dianping), China    July 2012 - April 2016    
 _Dianping is the NO.1 O2O Chinese mobile internet company operating a local life information and trading platform._
-  * Led a six-member software QA team in the Search Department which consists of 45 developers, to develop and implement quality-assurance and quality-control methodologies to ensure compliance with QA standards and customer requirements.
+  * Led a 6 members' software QA team in the Search Department which consists of 45 developers, to develop and implement quality-assurance and quality-control methodologies to ensure compliance with QA standards and customer requirements.
   * Analyzed business requirements, performed functional, reliability, performance and compatibility testing and followed user feedbacks to improve user experience.
   * Developed effective UI and API automation testing scripts and optimized product developing process to increase the whole department’s work efficiency.
   * Provided the developer team with detailed reports on quality metrics, identified bugs and recommended fixes.
@@ -59,6 +63,7 @@ EDUCATION
 CERTIFICATION
 --
 Certified Scrum Master (CSM) - August 2013  
+Project Management Professional (PMP) - December 2020
 
 OTHER SKILLS & STRENGTHS
 --
