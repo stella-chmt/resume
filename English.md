@@ -5,6 +5,7 @@ I am an experienced software testing engineer and Scrum Master, also an enthusia
 SKILLS AND EXPERTISE
 --
 * Project Management
+* Team Facilitate/Coach
 * QA Methodologies
 * Scripting & Documentation
  
@@ -18,7 +19,7 @@ WORK EXPERIENCE
   * Responsible for the test of the website Coohom.com.
   * Analyzed business requirements, performed functional, regression, performance and reliability testing to uncover defects and propose improvements for the product.
 
-* Meituan Dianping, China    May 2017 - September 2018    
+* Meituan Dianping, China    May 2017 - August 2018    
   * Led a 14 members' software QA team in the Daodianzhonghe Department which consists of 114 developers, to develop and implement quality-assurance and quality-control methodologies and way of working to ensure compliance with QA standards and customer requirements.
   * Analyzed business requirements, performed functional, reliability, performance and compatibility testing and followed user feedbacks to improve user experience.
   * Trained junior testing engineers on different technologies and infrastructures used.
