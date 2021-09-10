@@ -1,5 +1,6 @@
-陈梦婷     Email:stella.mengting.chen@gmail.com    Wechat:stella_chmt
+陈梦婷     Email:career.mengting.chen@gmail.com    Wechat:stella_chmt
 --
+* 3年项目管理、团队引导经验
 * 7年互联网行业软件测试经验，能基于团队需要，进行API/UI的质量保障解决方案规划与实施（包括功能、性能、稳定性、兼容性等各方面的测试、自动化、持续集成）
 * 熟悉Python，RobotFramework，Appium，Mysql，Jmeter，Linux
 * 有很强的责任心和团队精神，乐于分享
@@ -7,11 +8,13 @@
 
 工作经历
 --
+* 爱立信 2020.1 - 至今
+  * 负责SH Packect Core Mobility部门团队项目管理、引导和测试分析工作
 * 酷家乐 2018.12 - 2019.09
   * 负责Coohom网站的质量保障工作
      * 负责酷家乐国际站[Coohom](https://www.coohom.com)的质量保障工作，确保产品按计划高质量发布
      * 日常人员招聘
-* 美团点评 2017.5 - 2018.9
+* 美团点评 2017.5 - 2018.8
   * 负责点评综合基础产品与技术部测试4组质量保障与管理工作
      * 负责美团点评优惠订单、用户营销、预订平台、开放与SAAS平台、休闲娱乐、新垂直业务线端到端的质量保障资源协调与人员管理，确保产品按计划高质量发布
      * 日常人员招聘，绩效评估。离开时测试团队14人，对口开发人116人
