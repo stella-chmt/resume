@@ -1,6 +1,6 @@
 陈梦婷     Email:career.mengting.chen@gmail.com    Wechat:stella_chmt
 --
-* 3年项目管理、团队引导经验
+* 3年项目管理、团队引导经验, 持CSM(Certified Scrum Master) / PMP(Project Management Professional)认证
 * 7年互联网行业软件测试经验，能基于团队需要，进行API/UI的质量保障解决方案规划与实施（包括功能、性能、稳定性、兼容性等各方面的测试、自动化、持续集成）
 * 熟悉Python，RobotFramework，Appium，Mysql，Jmeter，Linux
 * 有很强的责任心和团队精神，乐于分享
