@@ -5,6 +5,7 @@ I am an experienced software testing engineer and Scrum Master, also an enthusia
 SKILLS AND EXPERTISE
 --
 * Project Management
+* Scrum Master
 * Team Facilitate/Coach
 * QA Methodologies
 * Scripting & Documentation
