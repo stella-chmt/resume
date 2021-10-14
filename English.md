@@ -1,7 +1,6 @@
 Mengting Chen
 --
-career.mengting.chen@gmail.com
-+86-13636431954
+career.mengting.chen@gmail.com  mobile: +86-13636431954
 
 SKILLS AND EXPERTISE
 --
