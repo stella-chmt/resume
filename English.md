@@ -1,6 +1,6 @@
 PERSONAL OBJECTIVE
 --
-I am an experienced software testing engineer and Scrum Master, also an enthusiastic technologist in IT industry. With proven track record, I am a self-motivated, initiative and responsible individual who can work well as a part of a team and currently looking for a new challenging opportunity.
+I am an experienced software testing engineer and Scrum Master, also an enthusiastic technologist in IT industry. With proven track record, I am a self-motivated, initiative and responsible individual who can work well as a part of a team.
 
 SKILLS AND EXPERTISE
 --
@@ -12,7 +12,7 @@ SKILLS AND EXPERTISE
  
 WORK EXPERIENCE
 -- 
-* Ericsson, China    January 2020 - Present      
+* Ericsson(Consultant), China    January 2020 - Present      
   * Responsible for the project management of a 6 members' Scrum team as the team's Scrum Master and facilitated the team through all stages from forming to performing.
   * Analyzed business requirements, performed test analysis and executed functional testing to uncover defects and propose improvements for features assigned to team.
   
@@ -20,7 +20,7 @@ WORK EXPERIENCE
   * Responsible for the test of the website Coohom.com.
   * Analyzed business requirements, performed functional, regression, performance and reliability testing to uncover defects and propose improvements for the product.
 
-* Meituan Dianping, China    May 2017 - August 2018    
+* Meituan, China    May 2017 - August 2018    
   * Led a 14 members' software QA team in the Daodianzhonghe Department which consists of 114 developers, to develop and implement quality-assurance and quality-control methodologies and way of working to ensure compliance with QA standards and customer requirements.
   * Analyzed business requirements, performed functional, reliability, performance and compatibility testing and followed user feedbacks to improve user experience.
   * Trained junior testing engineers on different technologies and infrastructures used.
@@ -64,15 +64,14 @@ OTHER SKILLS & STRENGTHS
 --
 * Performance Testing      
       * Jmeter
-* API/APP Automation      
+* API/APP Automation
+      * TTCN       
       * Robotframework    
       * Appium    
 * Scripting      
-      * Python    
-      * Java    
-* Continuous Integration      
-      * MySQL    
-      * Java          
+      * Python
+      * Erlang
+      * TTCN          
 * Servers    
       * Linux    
 
