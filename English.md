@@ -1,3 +1,8 @@
+Mengting Chen
+--
+career.mengting.chen@gmail.com
++86-13636431954
+
 PERSONAL OBJECTIVE
 --
 I am an experienced software testing engineer and Scrum Master, also an enthusiastic technologist in IT industry. With proven track record, I am a self-motivated, initiative and responsible individual who can work well as a part of a team.
