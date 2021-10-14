@@ -69,8 +69,8 @@ OTHER SKILLS & STRENGTHS
       * Robotframework    
       * Appium    
 * Scripting      
-      * Python
-      * Erlang
+      * Python      
+      * Erlang      
       * TTCN          
 * Servers    
       * Linux    
