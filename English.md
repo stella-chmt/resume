@@ -64,7 +64,7 @@ OTHER SKILLS & STRENGTHS
 --
 * Performance Testing      
       * Jmeter
-* API/APP Automation
+* API/APP Automation      
       * TTCN       
       * Robotframework    
       * Appium    
